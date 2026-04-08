@@ -15,8 +15,9 @@ A lightweight browser extension that provides a one-click solution for downloadi
 3. Open Firefox and type `about:debugging` into the URL bar.
 4. Click **This Firefox** on the left-hand menu.
 5. Click the **Load Temporary Add-on** button.
+6. Navigate to your extracted folder and select the `manifest.json` file.
 <img width="50%" height="50%" alt="Screenshot of adding to firefox" src="https://github.com/user-attachments/assets/0665cbe9-0719-4ef8-8421-73397346d346" />
-7. Navigate to your extracted folder and select the `manifest.json` file.
+
 
 ### For Chrome / Edge (Developer Mode)
 1. Download and extract the latest `.zip` file from the **Releases** tab.
