@@ -7,8 +7,6 @@ A lightweight browser extension that provides a one-click solution for downloadi
 * **Smart Naming:** Dynamically names the downloaded video file based on the specific game URL for easy organization.
 * **Local Processing:** Runs entirely within your browser with zero external server dependencies.
 
-<img width="75%" height="75%" alt="Screenshot of the extension in action" src="https://github.com/user-attachments/assets/0665cbe9-0719-4ef8-8421-73397346d346" />
-
 ## 🚀 Installation 
 
 ### For Firefox
@@ -17,13 +15,16 @@ A lightweight browser extension that provides a one-click solution for downloadi
 3. Open Firefox and type `about:debugging` into the URL bar.
 4. Click **This Firefox** on the left-hand menu.
 5. Click the **Load Temporary Add-on** button.
-6. Navigate to your extracted folder and select the `manifest.json` file.
+<img width="50%" height="50%" alt="Screenshot of adding to firefox" src="https://github.com/user-attachments/assets/0665cbe9-0719-4ef8-8421-73397346d346" />
+7. Navigate to your extracted folder and select the `manifest.json` file.
 
 ### For Chrome / Edge (Developer Mode)
 1. Download and extract the latest `.zip` file from the **Releases** tab.
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Toggle **Developer mode** on in the top right corner.
 4. Click **Load unpacked** in the top left and select your extracted folder.
+<img width="50%" height="50%" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/e42d77a4-0c0d-4362-8b9e-3f5a74783984" />
+
 
 ## 📖 Usage
 1. Navigate to a video or game replay page on [BallerTV](https://www.ballertv.com/).
