@@ -16,7 +16,7 @@ A lightweight browser extension that provides a one-click solution for downloadi
 4. Click **This Firefox** on the left-hand menu.
 5. Click the **Load Temporary Add-on** button.
 6. Navigate to your extracted folder and select the `manifest.json` file.
-<img width="50%" height="50%" alt="Screenshot of adding to firefox" src="https://github.com/user-attachments/assets/0665cbe9-0719-4ef8-8421-73397346d346" />
+<img width="50%" height="50%" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/4c2138d3-0cd1-4122-a0da-12c4cfebccf8" />
 
 
 ### For Chrome / Edge (Developer Mode)
