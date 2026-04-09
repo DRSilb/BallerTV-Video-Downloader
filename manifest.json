@@ -2,7 +2,7 @@
   "name": "Baller TV Video Downloader",
   "version": "1.0",
   "manifest_version": 3,
-  "description": "Finds and downloads the clipping_file_url on the page.",
+  "description": "Finds and downloads the clipping_file_url on BallerTV.",
   
   "icons": {
     "16": "icon16.png",
@@ -12,6 +12,7 @@
 
   "action": {
     "default_title": "Download Video",
+    "default_popup": "popup.html",
     "default_icon": {
       "16": "icon16.png",
       "48": "icon48.png",
@@ -24,10 +25,6 @@
     "scripting",
     "downloads"
   ],
-  
-  "background": {
-    "scripts": ["background.js"]
-  },
 
   "browser_specific_settings": {
     "gecko": {
