@@ -9,7 +9,7 @@ A lightweight browser extension that provides a one-click solution for downloadi
 
 ## 🚀 Installation 
 
-### For Firefox
+### For Firefox visit the published extension [here](https://addons.mozilla.org/en-US/firefox/addon/ballertv-video-downloader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 1. Go to the **Releases** tab on the right side of this repository.
 2. Download the latest `.zip` file and extract its contents to a folder on your computer.
 3. Open Firefox and type `about:debugging` into the URL bar.
